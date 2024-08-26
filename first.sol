@@ -12,7 +12,7 @@ contract MyFirstContract{
     uint public no;
     constructor(string memory _hi,uint _no) {
         hi = _hi;
-        no = _no;
+        no = _no; 
     }
 
 
