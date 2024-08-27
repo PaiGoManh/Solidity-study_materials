@@ -5,7 +5,6 @@ contract MyFirstContract{
     string public hey = "Rahul";
     uint public num = 4;
 
-
     // using constructor
 
     string public hi;
@@ -14,8 +13,6 @@ contract MyFirstContract{
         hi = _hi;
         no = _no; 
     }
-
-
     // using function
 
     string public hello;
